@@ -30,7 +30,7 @@ Welcome to My GitHub Profile! Hello! I'm Shafqat Abbas, a passionate Full Stack 
 
 <a href="https://github.com/shafqat56" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shafqat56&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Play Snake Game!
+## 🐍 A Snake Eating My Contributions Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafqat56/shafqat56/output/github-snake-dark.svg" />
